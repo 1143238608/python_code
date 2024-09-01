@@ -1,0 +1,9 @@
+https://castatic.fengkongcloud.cn/pr/v1.0.4/slide/embed.html
+
+rid  返回
+需要逆向的参数：
+    ww
+    je
+    mu
+
+

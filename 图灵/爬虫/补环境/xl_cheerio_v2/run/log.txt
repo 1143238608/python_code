@@ -1,0 +1,4049 @@
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+======================================调         试        代          码======================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+[window]   设置属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   设置属性:   bbb   value:   function _$(a, b) {
+        var reI = 0
+          , SGM = [28, 8, 9, 10, 24, 16, 26, 11, 22, 14, 4, 12, 2, 6, 20, 15, 3, 13];
+        while (!![]) {
+            switch (SGM[reI++]) {
+            case 1:
+                v = tk1(u, z);
+                break;
+            case 2:
+                r += "a";
+                break;
+            case 3:
+                r += "a";
+                break;
+            case 4:
+                r = r.j("");
+                break;
+            case 5:
+                Kje[hIs(161 - 45)][hIs(1438 - 884)]["t"] = new Date()[hIs(1421 - 949)]() - h;
+                break;
+            case 6:
+                r += "t";
+                break;
+            case 7:
+                hIs(1411 - 661, v, z, this[hIs(1676 - 1144)], h);
+                break;
+            case 8:
+                for (var t = r.length - 1; t >= 0; t--) {
+                    o.p(r.c(t))
+                }
+                break;
+            case 9:
+                var u, v, z;
+                var v_3 = [18, 21, 17, 19, 23, 25, 1, 7, 5, 27];
+                break;
+            case 10:
+                o = o.j("");
+                break;
+            case 11:
+                r = [];
+                break;
+            case 12:
+                Kje[TX()][uVJ()][wn3()] = h;
+                break;
+            case 13:
+                Mg0(z, b);
+                break;
+            case 14:
+                for (var t = r.length - 1; t >= 4; t--) {
+                    r.p(B.c(t))
+                }
+                break;
+            case 15:
+                r += "c";
+                Xb7.apply(SGM, v_3);
+                break;
+            case 16:
+                z = a;
+                break;
+            case 17:
+                HAX(this[BWT()]);
+                break;
+            case 18:
+                o = B;
+                break;
+            case 19:
+                if (r.c(5) > o.c(7)) {
+                    r = r + "g"
+                }
+                break;
+            case 20:
+                u = D2N(z, b, h);
+                break;
+            case 21:
+                B = r;
+                break;
+            case 22:
+                FfJ();
+                break;
+            case 23:
+                o += "h";
+                break;
+            case 24:
+                if (r.c(5) > o.c(4)) {
+                    r = r + "u"
+                }
+                break;
+            case 25:
+                km();
+                break;
+            case 26:
+                var B = o + r;
+                break;
+            case 27:
+                return hIs(901 - 666, je6);
+            case 28:
+                var h = new Date()[HXI()]()
+                  , o = []
+                  , r = "abcdefghijk";
+                var Xb7 = SGM.p;
+                break;
+            }
+        }
+    }
+JSON.stringify    arg0:undefined   arg1:undefined
+当前setTimeEvent有===>undefined
+[window]   获取属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   获取属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   获取属性:   document   value:   [object HTMLDocument]
+[window]   获取属性:   document   value:   [object HTMLDocument]
+Document_cookie_get cookie -> [object Object]
+[document]   获取属性:   cookie   value:   
+[window]   获取属性:   navigator   value:   [object Navigator]
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_cookieEnabled_get= true  
+[navigator]   获取属性:   cookieEnabled   value:   true
+[window]   获取属性:   navigator   value:   [object Navigator]
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_language_get zh-CN  
+[navigator]   获取属性:   language   value:   zh-CN
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_language_get zh-CN  
+[navigator]   获取属性:   language   value:   zh-CN
+[window]   获取属性:   callPhantom   value:   undefined
+[window]   获取属性:   _phantom   value:   undefined
+[window]   获取属性:   SpeechSynthesisUtterance   value:   function SpeechSynthesisUtterance() { [native code] }
+window_length_get  0
+[window]   获取属性:   length   value:   0
+[window]   获取属性:   XMLHttpRequest   value:   function XMLHttpRequest() { [native code] }
+[window]   获取属性:   SourceBuffer   value:   function SourceBuffer() { [native code] }
+window_length_get  0
+[window]   获取属性:   length   value:   0
+[window]   获取属性:   ScreenOrientation   value:   function ScreenOrientation() { [native code] }
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+======================================调         试        代          码======================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+[window]   设置属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   设置属性:   bbb   value:   function _$(a, b) {
+        var reI = 0
+          , SGM = [28, 8, 9, 10, 24, 16, 26, 11, 22, 14, 4, 12, 2, 6, 20, 15, 3, 13];
+        while (!![]) {
+            switch (SGM[reI++]) {
+            case 1:
+                v = tk1(u, z);
+                break;
+            case 2:
+                r += "a";
+                break;
+            case 3:
+                r += "a";
+                break;
+            case 4:
+                r = r.j("");
+                break;
+            case 5:
+                Kje[hIs(161 - 45)][hIs(1438 - 884)]["t"] = new Date()[hIs(1421 - 949)]() - h;
+                break;
+            case 6:
+                r += "t";
+                break;
+            case 7:
+                hIs(1411 - 661, v, z, this[hIs(1676 - 1144)], h);
+                break;
+            case 8:
+                for (var t = r.length - 1; t >= 0; t--) {
+                    o.p(r.c(t))
+                }
+                break;
+            case 9:
+                var u, v, z;
+                var v_3 = [18, 21, 17, 19, 23, 25, 1, 7, 5, 27];
+                break;
+            case 10:
+                o = o.j("");
+                break;
+            case 11:
+                r = [];
+                break;
+            case 12:
+                Kje[TX()][uVJ()][wn3()] = h;
+                break;
+            case 13:
+                Mg0(z, b);
+                break;
+            case 14:
+                for (var t = r.length - 1; t >= 4; t--) {
+                    r.p(B.c(t))
+                }
+                break;
+            case 15:
+                r += "c";
+                Xb7.apply(SGM, v_3);
+                break;
+            case 16:
+                z = a;
+                break;
+            case 17:
+                HAX(this[BWT()]);
+                break;
+            case 18:
+                o = B;
+                break;
+            case 19:
+                if (r.c(5) > o.c(7)) {
+                    r = r + "g"
+                }
+                break;
+            case 20:
+                u = D2N(z, b, h);
+                break;
+            case 21:
+                B = r;
+                break;
+            case 22:
+                FfJ();
+                break;
+            case 23:
+                o += "h";
+                break;
+            case 24:
+                if (r.c(5) > o.c(4)) {
+                    r = r + "u"
+                }
+                break;
+            case 25:
+                km();
+                break;
+            case 26:
+                var B = o + r;
+                break;
+            case 27:
+                return hIs(901 - 666, je6);
+            case 28:
+                var h = new Date()[HXI()]()
+                  , o = []
+                  , r = "abcdefghijk";
+                var Xb7 = SGM.p;
+                break;
+            }
+        }
+    }
+JSON.stringify    arg0:undefined   arg1:undefined
+当前setTimeEvent有===>undefined
+[window]   获取属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   获取属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   获取属性:   document   value:   [object HTMLDocument]
+[window]   获取属性:   document   value:   [object HTMLDocument]
+Document_cookie_get cookie -> [object Object]
+[document]   获取属性:   cookie   value:   
+[window]   获取属性:   navigator   value:   [object Navigator]
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_cookieEnabled_get= true  
+[navigator]   获取属性:   cookieEnabled   value:   true
+[window]   获取属性:   navigator   value:   [object Navigator]
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_language_get zh-CN  
+[navigator]   获取属性:   language   value:   zh-CN
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_language_get zh-CN  
+[navigator]   获取属性:   language   value:   zh-CN
+[window]   获取属性:   callPhantom   value:   undefined
+[window]   获取属性:   _phantom   value:   undefined
+[window]   获取属性:   SpeechSynthesisUtterance   value:   function SpeechSynthesisUtterance() { [native code] }
+window_length_get  0
+[window]   获取属性:   length   value:   0
+[window]   获取属性:   XMLHttpRequest   value:   function XMLHttpRequest() { [native code] }
+[window]   获取属性:   SourceBuffer   value:   function SourceBuffer() { [native code] }
+window_length_get  0
+[window]   获取属性:   length   value:   0
+[window]   获取属性:   ScreenOrientation   value:   function ScreenOrientation() { [native code] }
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   decodeURI   value:   function decodeURI() { [native code] }
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   history   value:   [object History]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   location   value:   [object Location]
+[window]   获取属性:   location   value:   [object Location]
+location_hostname_get www.fangdi.com.cn   
+[location]   获取属性:   hostname   value:   www.fangdi.com.cn
+[window]   获取属性:   location   value:   [object Location]
+location_hostname_get www.fangdi.com.cn   
+[location]   获取属性:   hostname   value:   www.fangdi.com.cn
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_outerHeight_get  920
+[window]   获取属性:   outerHeight   value:   920
+window_innerHeight_get  817
+[window]   获取属性:   innerHeight   value:   817
+window_outerWidth_get  1440
+[window]   获取属性:   outerWidth   value:   1440
+window_innerWidth_get  1440
+[window]   获取属性:   innerWidth   value:   1440
+window_self_get window  
+[window]   获取属性:   Math   value:   [object Math]
+[window -> Math]   获取属性:   PI   value:   3.141592653589793
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   RegExp   value:   function RegExp() { [native code] }
+[window]   获取属性:   RegExp   value:   function RegExp() { [native code] }
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   window   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   window   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   window   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   location   value:   [object Location]
+location_href_get  http://www.fangdi.com.cn/   
+[location]   获取属性:   href   value:   http://www.fangdi.com.cn/
+[window]   获取属性:   Date   value:   function Date() { [native code] }
+[document]   获取属性:   createElement   value:   function createElement() { [native code] }
+Document_createElement tagName->canvas [object HTMLCanvasElement]
+HTMLCanvasElement_getContext type->2d 
+CanvasRenderingContext2D_textBaseline_set textBaseline->top
+CanvasRenderingContext2D_font_set font->14px 'Arial'
+CanvasRenderingContext2D_textBaseline_set textBaseline->tencent
+CanvasRenderingContext2D_fillStyle_set fillStyle->#f60
+CanvasRenderingContext2D_fillRect fillRect->125,1,62,20
+CanvasRenderingContext2D_fillStyle_set fillStyle->#069
+CanvasRenderingContext2D_fillText fillText->k*AA0c?BAM,2,15
+CanvasRenderingContext2D_fillStyle_set fillStyle->rgba(102, 204, 0, 0.7)
+CanvasRenderingContext2D_fillText fillText->k*AA0c?BAM,4,17
+HTMLCanvasElement_toDataURL res->data:image/png;base64,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
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_userAgent_get Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36  
+[navigator]   获取属性:   userAgent   value:   Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+[window]   获取属性:   OfflineAudioContext   value:   function OfflineAudioContext() { [native code] }
+BaseAudioContext_createOscillatorundefined
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   addEvenetListener   value:   undefined
+[window]   获取属性:   isFinite   value:   function isFinite() { [native code] }
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+[window]   获取属性:   performance   value:   [object Performance]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   isFinite   value:   function isFinite() { [native code] }
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+[window]   获取属性:   DOMParser   value:   function DOMParser() { [native code] }
+[window]   获取属性:   Math   value:   [object Math]
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+window_self_get window  
+[window]   获取属性:   self   value:   [object Window]
+[window]   获取属性:   sessionStorage   value:   [object Storage]
+[window]   获取属性:   performance   value:   [object Performance]
+[window]   获取属性:   sessionStorage   value:   [object Storage]
+[window]   获取属性:   MediaEncryptedEvent   value:   function MediaEncryptedEvent() { [native code] }
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   Path2D   value:   function Path2D() { [native code] }
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+[window]   获取属性:   CDATASection   value:   function CDATASection() { [native code] }
+[window]   获取属性:   CDATASection   value:   function CDATASection() { [native code] }
+[window]   获取属性:   SVGGraphicsElement   value:   function SVGGraphicsElement() { [native code] }
+[window]   获取属性:   PerformancePaintTiming   value:   function PerformancePaintTiming() { [native code] }
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+======================================调         试        代          码======================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+[window]   设置属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   设置属性:   bbb   value:   function _$(a, b) {
+        var reI = 0
+          , SGM = [28, 8, 9, 10, 24, 16, 26, 11, 22, 14, 4, 12, 2, 6, 20, 15, 3, 13];
+        while (!![]) {
+            switch (SGM[reI++]) {
+            case 1:
+                v = tk1(u, z);
+                break;
+            case 2:
+                r += "a";
+                break;
+            case 3:
+                r += "a";
+                break;
+            case 4:
+                r = r.j("");
+                break;
+            case 5:
+                Kje[hIs(161 - 45)][hIs(1438 - 884)]["t"] = new Date()[hIs(1421 - 949)]() - h;
+                break;
+            case 6:
+                r += "t";
+                break;
+            case 7:
+                hIs(1411 - 661, v, z, this[hIs(1676 - 1144)], h);
+                break;
+            case 8:
+                for (var t = r.length - 1; t >= 0; t--) {
+                    o.p(r.c(t))
+                }
+                break;
+            case 9:
+                var u, v, z;
+                var v_3 = [18, 21, 17, 19, 23, 25, 1, 7, 5, 27];
+                break;
+            case 10:
+                o = o.j("");
+                break;
+            case 11:
+                r = [];
+                break;
+            case 12:
+                Kje[TX()][uVJ()][wn3()] = h;
+                break;
+            case 13:
+                Mg0(z, b);
+                break;
+            case 14:
+                for (var t = r.length - 1; t >= 4; t--) {
+                    r.p(B.c(t))
+                }
+                break;
+            case 15:
+                r += "c";
+                Xb7.apply(SGM, v_3);
+                break;
+            case 16:
+                z = a;
+                break;
+            case 17:
+                HAX(this[BWT()]);
+                break;
+            case 18:
+                o = B;
+                break;
+            case 19:
+                if (r.c(5) > o.c(7)) {
+                    r = r + "g"
+                }
+                break;
+            case 20:
+                u = D2N(z, b, h);
+                break;
+            case 21:
+                B = r;
+                break;
+            case 22:
+                FfJ();
+                break;
+            case 23:
+                o += "h";
+                break;
+            case 24:
+                if (r.c(5) > o.c(4)) {
+                    r = r + "u"
+                }
+                break;
+            case 25:
+                km();
+                break;
+            case 26:
+                var B = o + r;
+                break;
+            case 27:
+                return hIs(901 - 666, je6);
+            case 28:
+                var h = new Date()[HXI()]()
+                  , o = []
+                  , r = "abcdefghijk";
+                var Xb7 = SGM.p;
+                break;
+            }
+        }
+    }
+JSON.stringify    arg0:undefined   arg1:undefined
+当前setTimeEvent有===>undefined
+[window]   获取属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   获取属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   获取属性:   document   value:   [object HTMLDocument]
+[window]   获取属性:   document   value:   [object HTMLDocument]
+Document_cookie_get cookie -> [object Object]
+[document]   获取属性:   cookie   value:   
+[window]   获取属性:   navigator   value:   [object Navigator]
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_cookieEnabled_get= true  
+[navigator]   获取属性:   cookieEnabled   value:   true
+[window]   获取属性:   navigator   value:   [object Navigator]
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_language_get zh-CN  
+[navigator]   获取属性:   language   value:   zh-CN
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_language_get zh-CN  
+[navigator]   获取属性:   language   value:   zh-CN
+[window]   获取属性:   callPhantom   value:   undefined
+[window]   获取属性:   _phantom   value:   undefined
+[window]   获取属性:   SpeechSynthesisUtterance   value:   function SpeechSynthesisUtterance() { [native code] }
+window_length_get  0
+[window]   获取属性:   length   value:   0
+[window]   获取属性:   XMLHttpRequest   value:   function XMLHttpRequest() { [native code] }
+[window]   获取属性:   SourceBuffer   value:   function SourceBuffer() { [native code] }
+window_length_get  0
+[window]   获取属性:   length   value:   0
+[window]   获取属性:   ScreenOrientation   value:   function ScreenOrientation() { [native code] }
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   decodeURI   value:   function decodeURI() { [native code] }
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   history   value:   [object History]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   location   value:   [object Location]
+[window]   获取属性:   location   value:   [object Location]
+location_hostname_get www.fangdi.com.cn   
+[location]   获取属性:   hostname   value:   www.fangdi.com.cn
+[window]   获取属性:   location   value:   [object Location]
+location_hostname_get www.fangdi.com.cn   
+[location]   获取属性:   hostname   value:   www.fangdi.com.cn
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_outerHeight_get  920
+[window]   获取属性:   outerHeight   value:   920
+window_innerHeight_get  817
+[window]   获取属性:   innerHeight   value:   817
+window_outerWidth_get  1440
+[window]   获取属性:   outerWidth   value:   1440
+window_innerWidth_get  1440
+[window]   获取属性:   innerWidth   value:   1440
+window_self_get window  
+[window]   获取属性:   Math   value:   [object Math]
+[window -> Math]   获取属性:   PI   value:   3.141592653589793
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   RegExp   value:   function RegExp() { [native code] }
+[window]   获取属性:   RegExp   value:   function RegExp() { [native code] }
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   window   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   window   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   window   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   location   value:   [object Location]
+location_href_get  http://www.fangdi.com.cn/   
+[location]   获取属性:   href   value:   http://www.fangdi.com.cn/
+[window]   获取属性:   Date   value:   function Date() { [native code] }
+[document]   获取属性:   createElement   value:   function createElement() { [native code] }
+Document_createElement tagName->canvas [object HTMLCanvasElement]
+HTMLCanvasElement_getContext type->2d 
+CanvasRenderingContext2D_textBaseline_set textBaseline->top
+CanvasRenderingContext2D_font_set font->14px 'Arial'
+CanvasRenderingContext2D_textBaseline_set textBaseline->tencent
+CanvasRenderingContext2D_fillStyle_set fillStyle->#f60
+CanvasRenderingContext2D_fillRect fillRect->125,1,62,20
+CanvasRenderingContext2D_fillStyle_set fillStyle->#069
+CanvasRenderingContext2D_fillText fillText->k*AA0c?BAM,2,15
+CanvasRenderingContext2D_fillStyle_set fillStyle->rgba(102, 204, 0, 0.7)
+CanvasRenderingContext2D_fillText fillText->k*AA0c?BAM,4,17
+HTMLCanvasElement_toDataURL res->data:image/png;base64,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
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_userAgent_get Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36  
+[navigator]   获取属性:   userAgent   value:   Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+[window]   获取属性:   OfflineAudioContext   value:   function OfflineAudioContext() { [native code] }
+BaseAudioContext_createOscillatorundefined
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   addEvenetListener   value:   undefined
+[window]   获取属性:   isFinite   value:   function isFinite() { [native code] }
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+[window]   获取属性:   performance   value:   [object Performance]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   isFinite   value:   function isFinite() { [native code] }
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+[window]   获取属性:   DOMParser   value:   function DOMParser() { [native code] }
+[window]   获取属性:   Math   value:   [object Math]
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+window_self_get window  
+[window]   获取属性:   self   value:   [object Window]
+[window]   获取属性:   sessionStorage   value:   [object Storage]
+[window]   获取属性:   performance   value:   [object Performance]
+[window]   获取属性:   sessionStorage   value:   [object Storage]
+[window]   获取属性:   MediaEncryptedEvent   value:   function MediaEncryptedEvent() { [native code] }
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   Path2D   value:   function Path2D() { [native code] }
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+[window]   获取属性:   CDATASection   value:   function CDATASection() { [native code] }
+[window]   获取属性:   CDATASection   value:   function CDATASection() { [native code] }
+[window]   获取属性:   SVGGraphicsElement   value:   function SVGGraphicsElement() { [native code] }
+[window]   获取属性:   PerformancePaintTiming   value:   function PerformancePaintTiming() { [native code] }
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+======================================调         试        代          码======================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+===============================================================================================================
+[window]   设置属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   设置属性:   bbb   value:   function _$(a, b) {
+        var reI = 0
+          , SGM = [28, 8, 9, 10, 24, 16, 26, 11, 22, 14, 4, 12, 2, 6, 20, 15, 3, 13];
+        while (!![]) {
+            switch (SGM[reI++]) {
+            case 1:
+                v = tk1(u, z);
+                break;
+            case 2:
+                r += "a";
+                break;
+            case 3:
+                r += "a";
+                break;
+            case 4:
+                r = r.j("");
+                break;
+            case 5:
+                Kje[hIs(161 - 45)][hIs(1438 - 884)]["t"] = new Date()[hIs(1421 - 949)]() - h;
+                break;
+            case 6:
+                r += "t";
+                break;
+            case 7:
+                hIs(1411 - 661, v, z, this[hIs(1676 - 1144)], h);
+                break;
+            case 8:
+                for (var t = r.length - 1; t >= 0; t--) {
+                    o.p(r.c(t))
+                }
+                break;
+            case 9:
+                var u, v, z;
+                var v_3 = [18, 21, 17, 19, 23, 25, 1, 7, 5, 27];
+                break;
+            case 10:
+                o = o.j("");
+                break;
+            case 11:
+                r = [];
+                break;
+            case 12:
+                Kje[TX()][uVJ()][wn3()] = h;
+                break;
+            case 13:
+                Mg0(z, b);
+                break;
+            case 14:
+                for (var t = r.length - 1; t >= 4; t--) {
+                    r.p(B.c(t))
+                }
+                break;
+            case 15:
+                r += "c";
+                Xb7.apply(SGM, v_3);
+                break;
+            case 16:
+                z = a;
+                break;
+            case 17:
+                HAX(this[BWT()]);
+                break;
+            case 18:
+                o = B;
+                break;
+            case 19:
+                if (r.c(5) > o.c(7)) {
+                    r = r + "g"
+                }
+                break;
+            case 20:
+                u = D2N(z, b, h);
+                break;
+            case 21:
+                B = r;
+                break;
+            case 22:
+                FfJ();
+                break;
+            case 23:
+                o += "h";
+                break;
+            case 24:
+                if (r.c(5) > o.c(4)) {
+                    r = r + "u"
+                }
+                break;
+            case 25:
+                km();
+                break;
+            case 26:
+                var B = o + r;
+                break;
+            case 27:
+                return hIs(901 - 666, je6);
+            case 28:
+                var h = new Date()[HXI()]()
+                  , o = []
+                  , r = "abcdefghijk";
+                var Xb7 = SGM.p;
+                break;
+            }
+        }
+    }
+JSON.stringify    arg0:undefined   arg1:undefined
+当前setTimeEvent有===>undefined
+[window]   获取属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   获取属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
+[window]   获取属性:   document   value:   [object HTMLDocument]
+[window]   获取属性:   document   value:   [object HTMLDocument]
+Document_cookie_get cookie -> [object Object]
+[document]   获取属性:   cookie   value:   
+[window]   获取属性:   navigator   value:   [object Navigator]
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_cookieEnabled_get= true  
+[navigator]   获取属性:   cookieEnabled   value:   true
+[window]   获取属性:   navigator   value:   [object Navigator]
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_language_get zh-CN  
+[navigator]   获取属性:   language   value:   zh-CN
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_language_get zh-CN  
+[navigator]   获取属性:   language   value:   zh-CN
+[window]   获取属性:   callPhantom   value:   undefined
+[window]   获取属性:   _phantom   value:   undefined
+[window]   获取属性:   SpeechSynthesisUtterance   value:   function SpeechSynthesisUtterance() { [native code] }
+window_length_get  0
+[window]   获取属性:   length   value:   0
+[window]   获取属性:   XMLHttpRequest   value:   function XMLHttpRequest() { [native code] }
+[window]   获取属性:   SourceBuffer   value:   function SourceBuffer() { [native code] }
+window_length_get  0
+[window]   获取属性:   length   value:   0
+[window]   获取属性:   ScreenOrientation   value:   function ScreenOrientation() { [native code] }
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   decodeURI   value:   function decodeURI() { [native code] }
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   history   value:   [object History]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   location   value:   [object Location]
+[window]   获取属性:   location   value:   [object Location]
+location_hostname_get www.fangdi.com.cn   
+[location]   获取属性:   hostname   value:   www.fangdi.com.cn
+[window]   获取属性:   location   value:   [object Location]
+location_hostname_get www.fangdi.com.cn   
+[location]   获取属性:   hostname   value:   www.fangdi.com.cn
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_outerHeight_get  920
+[window]   获取属性:   outerHeight   value:   920
+window_innerHeight_get  817
+[window]   获取属性:   innerHeight   value:   817
+window_outerWidth_get  1440
+[window]   获取属性:   outerWidth   value:   1440
+window_innerWidth_get  1440
+[window]   获取属性:   innerWidth   value:   1440
+window_self_get window  
+[window]   获取属性:   Math   value:   [object Math]
+[window -> Math]   获取属性:   PI   value:   3.141592653589793
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   RegExp   value:   function RegExp() { [native code] }
+[window]   获取属性:   RegExp   value:   function RegExp() { [native code] }
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   window   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   window   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   window   value:   [object Window]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   location   value:   [object Location]
+location_href_get  http://www.fangdi.com.cn/   
+[location]   获取属性:   href   value:   http://www.fangdi.com.cn/
+[window]   获取属性:   Date   value:   function Date() { [native code] }
+[document]   获取属性:   createElement   value:   function createElement() { [native code] }
+Document_createElement tagName->canvas [object HTMLCanvasElement]
+HTMLCanvasElement_getContext type->2d 
+CanvasRenderingContext2D_textBaseline_set textBaseline->top
+CanvasRenderingContext2D_font_set font->14px 'Arial'
+CanvasRenderingContext2D_textBaseline_set textBaseline->tencent
+CanvasRenderingContext2D_fillStyle_set fillStyle->#f60
+CanvasRenderingContext2D_fillRect fillRect->125,1,62,20
+CanvasRenderingContext2D_fillStyle_set fillStyle->#069
+CanvasRenderingContext2D_fillText fillText->k*AA0c?BAM,2,15
+CanvasRenderingContext2D_fillStyle_set fillStyle->rgba(102, 204, 0, 0.7)
+CanvasRenderingContext2D_fillText fillText->k*AA0c?BAM,4,17
+HTMLCanvasElement_toDataURL res->data:image/png;base64,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
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   navigator   value:   [object Navigator]
+Navigator_userAgent_get Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36  
+[navigator]   获取属性:   userAgent   value:   Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+[window]   获取属性:   OfflineAudioContext   value:   function OfflineAudioContext() { [native code] }
+BaseAudioContext_createOscillatorundefined
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   addEvenetListener   value:   undefined
+[window]   获取属性:   isFinite   value:   function isFinite() { [native code] }
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+[window]   获取属性:   performance   value:   [object Performance]
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   isFinite   value:   function isFinite() { [native code] }
+window_top_get window  
+[window]   获取属性:   top   value:   [object Window]
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+[window]   获取属性:   DOMParser   value:   function DOMParser() { [native code] }
+[window]   获取属性:   Math   value:   [object Math]
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+window_self_get window  
+[window]   获取属性:   self   value:   [object Window]
+[window]   获取属性:   sessionStorage   value:   [object Storage]
+[window]   获取属性:   performance   value:   [object Performance]
+[window]   获取属性:   sessionStorage   value:   [object Storage]
+[window]   获取属性:   MediaEncryptedEvent   value:   function MediaEncryptedEvent() { [native code] }
+window_onmessage_get onmessage->null
+[window]   获取属性:   onmessage   value:   null
+[window]   获取属性:   Path2D   value:   function Path2D() { [native code] }
+[window]   获取属性:   HTMLFrameSetElement   value:   function HTMLFrameSetElement() { [native code] }
+[window]   获取属性:   CDATASection   value:   function CDATASection() { [native code] }
+[window]   获取属性:   CDATASection   value:   function CDATASection() { [native code] }
+[window]   获取属性:   SVGGraphicsElement   value:   function SVGGraphicsElement() { [native code] }
+[window]   获取属性:   PerformancePaintTiming   value:   function PerformancePaintTiming() { [native code] }
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   localStorage   value:   [object Storage]
+[window]   获取属性:   ABC   value:   function mWs() {
+        var EP0 = 16;
+        while (!![]) {
+            switch (EP0) {
+            case 1:
+                t = t / r[8];
+                EP0 += 34;
+                break;
+            case 2:
+                C = C.p(B);
+                EP0 -= 1;
+                break;
+            case 3:
+                B = 1;
+                EP0 += 24;
+                break;
+            case 4:
+                t = r[4] + r[6];
+                EP0 += 10;
+                break;
+            case 5:
+                h = o;
+                EP0 += 20;
+                break;
+            case 6:
+                C = [6225920, 2359296, 3145728];
+                EP0 += 16;
+                break;
+            case 7:
+                C = C + 1;
+                EP0 += 23;
+                break;
+            case 8:
+                r[8] = t / r[4];
+                EP0 += 24;
+                break;
+            case 9:
+                t = t - r[6];
+                EP0 += 12;
+                break;
+            case 10:
+                var B = "UiL"
+                  , C = 1;
+                EP0 += 13;
+                break;
+            case 11:
+                o = o + 1;
+                EP0 += 17;
+                break;
+            case 12:
+                this[F] = M.j("");
+                return;
+            case 13:
+                J = L;
+                EP0 += 18;
+                break;
+            case 14:
+                var v = "";
+                EP0 += 5;
+                break;
+            case 15:
+                if (r[6] - r[5] > 0) {
+                    t = t + r[3];
+                    t = t + r[2] - r[5]
+                } else {
+                    t = t * r[6];
+                    t = t - r[2]
+                }
+                EP0 += 27;
+                break;
+            case 16:
+                var h = "K4S", o = 1, r = [], t;
+                EP0 -= 5;
+                break;
+            case 17:
+                J = 1;
+                EP0 += 24;
+                break;
+            case 18:
+                for (var I = 0; I < C.length; I++) {
+                    F = F + $(C[I] >> 16)
+                }
+                EP0 += 2;
+                break;
+            case 19:
+                t = t + r[6];
+                EP0 -= 14;
+                break;
+            case 20:
+                t = t - r[2];
+                EP0 -= 18;
+                break;
+            case 21:
+                t = t + r[8];
+                EP0 += 18;
+                break;
+            case 22:
+                r[4] = t - r[5];
+                EP0 -= 4;
+                break;
+            case 23:
+                if (t - r[6]) {
+                    t = t + r[3]
+                }
+                EP0 -= 16;
+                break;
+            case 24:
+                if (r[8] - r[5] > 0) {
+                    t = t + r[4];
+                    t = t + r[6] - r[5]
+                } else {
+                    t = t * r[0];
+                    t = t - r[2]
+                }
+                EP0 -= 18;
+                break;
+            case 25:
+                t = t * r[7];
+                EP0 += 13;
+                break;
+            case 26:
+                B = C;
+                EP0 -= 2;
+                break;
+            case 27:
+                t = t * r[6];
+                EP0 += 7;
+                break;
+            case 28:
+                for (var u = 0; u < 10; u++) {
+                    r.p(u + 6)
+                }
+                EP0 += 1;
+                break;
+            case 29:
+                h = 1;
+                EP0 -= 25;
+                break;
+            case 30:
+                t = t - r[2];
+                EP0 -= 27;
+                break;
+            case 31:
+                L = [8, 15, 2, 11, 16, 17, 5, 18, 1, 0, 6, 19, 20, 10, 13, 21, 22, 7, 14, 12, 23, 3, 24, 9, 25, 4, 26, 27];
+                EP0 += 12;
+                break;
+            case 32:
+                o = o.p(h);
+                EP0 -= 23;
+                break;
+            case 33:
+                t = t / r[4];
+                EP0 -= 23;
+                break;
+            case 34:
+                var F = ""
+                  , G = r[0];
+                EP0 -= 8;
+                break;
+            case 35:
+                t = t - r[2];
+                EP0 += 2;
+                break;
+            case 36:
+                L = J;
+                EP0 -= 19;
+                break;
+            case 37:
+                var J = "ju7P4rw2JeIb1c6sUHz3S=L0odTy"
+                  , L = 1;
+                EP0 -= 1;
+                break;
+            case 38:
+                o = [24320, 9216, 12544];
+                EP0 -= 23;
+                break;
+            case 39:
+                this[v] = [[1, 1, 0, 1, 0], [1, 1, 1, 0, 0], [1, 0, 0, 1, 1], [0, 1, 0, 1, 1]];
+                EP0 -= 6;
+                break;
+            case 40:
+                L = L.p(J);
+                EP0 -= 28;
+                break;
+            case 41:
+                J = J * 5;
+                EP0 += 3;
+                break;
+            case 42:
+                for (var z = 0; z < o.length; z++) {
+                    v = v + $(o[z] >> 8)
+                }
+                EP0 -= 34;
+                break;
+            case 43:
+                for (var N = 0; N < J.length; N++) {
+                    M.p(J.c(L[N]))
+                }
+                EP0 -= 3;
+                break;
+            case 44:
+                var M = [];
+                EP0 -= 31;
+                break;
+            }
+        }
+    }
