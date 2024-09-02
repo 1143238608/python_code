@@ -24,11 +24,11 @@ class LOL:
         }
         self.query = "INSERT INTO lol (time, weekday,left_name,left_logo,right_name,right_logo,score,winner,district) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
         self.cursor = self.connection.cursor()
-        self.redis_client.delete('lolInfo:filter')
+        # self.redis_client.delete('lolInfo:filter')
 
     def getInfo(self):
-        start_date = datetime.date(2024, 8, 1)
-        end_date = datetime.date(2024, 12, 21)
+        start_date = datetime.date(2024, 1, 1)
+        end_date = datetime.date(2024, 9, 4)
         current_date = start_date
         lol_info = {}
         while current_date <= end_date:
